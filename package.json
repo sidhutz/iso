@@ -1,0 +1,11 @@
+{
+  "name": "smm-main-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix smm-main run dev",
+    "build": "npm --prefix smm-main run build",
+    "preview": "npm --prefix smm-main run preview",
+    "check": "npm --prefix smm-main run check",
+    "open": "cmd /c \"smm-main\\Open Portfolio.cmd\""
+  }
+}
