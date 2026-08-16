@@ -40,10 +40,10 @@ export default function GitHubApp() {
         </div>
         <div>
           <h2 className="text-lg font-bold">{PROFILE.name}</h2>
-          <p className={`text-[12px] ${dark ? 'text-white/60' : 'text-black/55'}`}>siddharthkushwaha</p>
+          <p className={`text-[12px] ${dark ? 'text-white/60' : 'text-black/55'}`}>Siddharth kushwaha</p>
           <div className="flex items-center gap-3 mt-1 text-[11px]">
-            <span className="flex items-center gap-1"><Users size={11} /> 248 followers</span>
-            <span className="flex items-center gap-1"><BookMarked size={11} /> 36 following</span>
+            <span className="flex items-center gap-1"><Users size={11} /> 1 followers</span>
+            <span className="flex items-center gap-1"><BookMarked size={11} /> 1 following</span>
           </div>
         </div>
         <a href={PROFILE.links.github} target="_blank" rel="noreferrer" className="ml-auto px-3 py-1.5 rounded-lg text-[12px] font-medium text-white" style={{ background: 'var(--accent)' }}>
