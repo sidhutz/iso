@@ -5,12 +5,12 @@ export const PROFILE = {
   bio: 'I am a BCA student and developer passionate about building thoughtful software. I love web development, exploring programming languages, and experimenting with AI tools to craft experiences that feel alive.',
   interests: ['Web Development', 'Programming', 'AI & Technology', 'Open Source', 'Problem Solving'],
   location: 'India',
-  email: 'siddharth.kushwaha@example.com',
-  phone: '+91 98765 43210',
+  email: 'siddharth.0563.mun@gmail.com',
+  phone: '+91 9721945124',
   links: {
-    github: 'https://github.com/siddharthkushwaha',
-    linkedin: 'https://www.linkedin.com/in/siddharthkushwaha',
-    instagram: 'https://www.instagram.com/siddharth.kushwaha',
+    github: 'https://github.com/sidhutz',
+    linkedin: 'https://www.linkedin.com/in/siddharth-kushwaha-775a65387/',
+    instagram: 'https://www.instagram.com/sidhutz/?__pwa=1',
   },
 };
 
@@ -46,16 +46,17 @@ export const PROJECTS: Project[] = [
     tech: ['Python', 'NLP', 'Speech', 'AI'],
     gradient: 'from-violet-500 to-fuchsia-500',
     emoji: '🤖',
-    github: 'https://github.com/siddharthkushwaha',
+    demo:'https://github.com/sidhutz/jarvis_project01',
+    github: 'https://github.com/sidhutz',
   },
   {
-    name: 'Student Management System',
-    description: 'A full-featured system for managing student records, attendance, grades, and reports with a clean admin dashboard.',
+    name: 'Portfolio Website like IOS UI',
+    description: 'A full-featured system for store about my, projects, contects, and skills with a clean admin dashboard.',
     tech: ['React', 'Node', 'SQL', 'Tailwind'],
     gradient: 'from-sky-500 to-blue-600',
     emoji: '🎓',
-    github: 'https://github.com/siddharthkushwaha',
-    demo: 'https://bolt.new',
+    github: 'https://github.com/sidhutz',
+    demo: 'https://github.com/sidhutz/iso',
   },
   {
     name: 'Glassmorphism Student Form',
@@ -63,8 +64,8 @@ export const PROJECTS: Project[] = [
     tech: ['HTML', 'CSS', 'JavaScript'],
     gradient: 'from-emerald-400 to-teal-500',
     emoji: '🪟',
-    github: 'https://github.com/siddharthkushwaha',
-    demo: 'https://bolt.new',
+    github: 'https://github.com/sidhutz',
+    demo: 'https://github.com/sidhutz/google_form',
   },
   {
     name: 'Portfolio Website',
@@ -72,8 +73,8 @@ export const PROJECTS: Project[] = [
     tech: ['React', 'TypeScript', 'Tailwind'],
     gradient: 'from-amber-400 to-orange-500',
     emoji: '🖥️',
-    github: 'https://github.com/siddharthkushwaha',
-    demo: 'https://bolt.new',
+    github: 'https://github.com/sidhutz',
+    demo: 'https://github.com/sidhutz/iso',
   },
   {
     name: 'AI Projects Lab',
@@ -81,7 +82,7 @@ export const PROJECTS: Project[] = [
     tech: ['Python', 'AI', 'APIs'],
     gradient: 'from-rose-500 to-pink-600',
     emoji: '🧠',
-    github: 'https://github.com/siddharthkushwaha',
+    github: 'https://github.com/sidhutz',
   },
 ];
 
@@ -95,28 +96,28 @@ export type EducationItem = {
 
 export const EDUCATION: EducationItem[] = [
   {
-    period: '2023 — 2026',
+    period: '2025 — 2028',
     title: 'Bachelor of Computer Applications (BCA)',
-    org: 'College of Computer Studies',
+    org: 'Ashoka Institute of Technology and Management',
     description: 'Pursuing a degree in computer applications with a focus on software development, data structures, and modern web technologies.',
-    tag: 'Degree',
+    tag: 'Under Graduate',
   },
   {
-    period: '2024',
+    period: '2026',
     title: 'Microsoft Learn Certificates',
     org: 'Microsoft',
     description: 'Completed multiple Microsoft Learn modules covering Azure fundamentals, AI concepts, and modern development practices.',
     tag: 'Certification',
   },
   {
-    period: '2024',
+    period: '2026',
     title: 'Web Development Bootcamp',
     org: 'Online',
     description: 'Intensive hands-on program covering HTML, CSS, JavaScript, React, and full-stack fundamentals with real projects.',
     tag: 'Certification',
   },
   {
-    period: '2023',
+    period: '2025',
     title: 'Higher Secondary (12th)',
     org: 'CBSE Board',
     description: 'Completed higher secondary education with a focus on science and mathematics, building a strong analytical foundation.',
@@ -143,8 +144,8 @@ export const LINKEDIN = {
   skills: ['Web Development', 'JavaScript', 'React', 'Python', 'C++', 'SQL', 'Problem Solving', 'Teamwork'],
   certifications: ['Microsoft Learn — Azure Fundamentals', 'Microsoft Learn — AI Fundamentals', 'Web Development Bootcamp'],
   experience: [
-    { role: 'Freelance Developer', period: '2024 — Present', desc: 'Building websites and small applications for clients and personal projects.' },
-    { role: 'Open Source Contributor', period: '2023 — Present', desc: 'Contributing to and maintaining personal projects on GitHub.' },
+    { role: 'Freelance Developer', period: '2025 — Present', desc: 'Building websites and small applications for clients and personal projects.' },
+    { role: 'Open Source Contributor', period: '2024 — Present', desc: 'Contributing to and maintaining personal projects on GitHub.' },
   ],
 };
 
